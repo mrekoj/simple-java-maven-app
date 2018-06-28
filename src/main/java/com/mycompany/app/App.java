@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello ngrox!";
+    private final String message = "Hello ngroxxx!";
 
     public App() {}
 
